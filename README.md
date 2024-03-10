@@ -1,6 +1,6 @@
-# Project Name
+# Programmer.
 
-This is a project for learning Java, Python, and C++ simultaneously. It's part of the school curriculum.
+This is a project for learning Java, Python, and C++ simultaneously.
 
 ## Overview
 
@@ -14,7 +14,7 @@ This project aims to help you learn Java, Python, and C++ concurrently. Each lan
 
 ## Getting Started
 
-1. Clone this repository.
+1. Clone this repository. git clone https://www.github.com/perfectaltruis/Programmer.git
 2. Navigate to the language directory you want to work on.
 3. Start coding and exploring!
 
