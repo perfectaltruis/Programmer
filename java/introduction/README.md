@@ -27,6 +27,7 @@ This part will advance to more concepts like
 1. Operators
 2. strings
 3. mathematics in Java
+4. Boolean Data type
 
 ## part three:
 In this part you will learn the following.
