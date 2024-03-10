@@ -1,4 +1,4 @@
-****# Programmer.
+# Programmer.
 
 This is a project for learning Java, Python, and C++ simultaneously.
 
