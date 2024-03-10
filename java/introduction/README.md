@@ -21,6 +21,7 @@ This part deals with the following concepts.
 3. comments in java
 4. variable and data types
 5. type casting
+6. Naming conventions
 
 ## part two:
 This part will advance to more concepts like
