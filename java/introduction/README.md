@@ -52,4 +52,10 @@ Why Use Java?
     Java is an object oriented language which gives a clear structure to programs and allows code to be reused, lowering development costs
     As Java is close to C++ and C#, it makes it easy for programmers to switch to Java or vice versa
 
+
+
 # I'll Learn Java To Build Web Applications.
+
+## License
+
+This project is licensed under the [MIT License](../LICENSE).
