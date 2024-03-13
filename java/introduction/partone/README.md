@@ -1,7 +1,7 @@
-#### Allways read the README.md File in every folder:
+#### Always read the README.md File in every folder:
 
-###### java files are created with .java extension. example: filename.java, Main.java.
-# Introduction: Part one.
+###### java files are created with .java extension. example: Filename.java, Main.java.
+# Java Introduction: Part one.
 This part deals with the following concepts.
 
 - first java program
@@ -19,8 +19,7 @@ The folder has the following files:
 4. [Naming.java](Naming.java): Naming Variables in Java
 5. [TpyeCastingExample.java](TypeCAstingExample.java): Variable Casting in Java
 
-
-###### Please start with file from 1 to 4 Do not skip.
+###### Follow the structure in this README file to navigate the folder. Do not skip.
 
 ## Usage
 To explore a specific topic or concept, navigate to the corresponding Java file and execute it using a the command line.
