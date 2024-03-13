@@ -1,5 +1,7 @@
-###### Java files are created with a .java extension.
+## FOLLOW THE INSTRUCTIONS IN ALL README FILES.
+#### Always read the README.md File in every folder:
 
+###### java files are created with .java extension. example: Filename.java, Main.java.
 # Chapter One: Introduction to Java.
 
 
