@@ -1,11 +1,10 @@
 ###### Java files are created with a .java extension.
 
-# Part one: Introduction to Java.
+# Chapter One: Introduction to Java.
 
-Java was created by James Gosling, Mike Sheridan, and Patrick Naughton at Sun Microsystems, which was later acquired by Oracle Corporation in 2010. They began work on Java in 1991 and released the first version of Java in 1995. Java was designed to be platform-independent, secure, and easy to use, making it suitable for a wide range of applications, from embedded systems to enterprise-level software development. Over the years, Java has become one of the most popular programming languages in the world and is widely used for developing web, mobile, and desktop applications, as well as server-side software.
 
-In this part i will share what i learn: 
-The part consists of three parts part one, parttwo and partthree each of the three part explains some projects and how to write codes.
+In this part i will share what i learn:
+The part consists of three parts part one, part two and part three each of the three part explains some projects and how to write codes.
 
 ## Table of contents.
 1. [part one](#par-tone)

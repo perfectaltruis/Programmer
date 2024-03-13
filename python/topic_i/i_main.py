@@ -49,7 +49,7 @@
 # To see if python is installed in you Machine please open your terminal and run the command below
 # python  --version
 
-# if python is installed in your pc you could see semething like this `Python 3.11.8`
+# if python is installed in your pc you could see something like this `Python 3.11.8`
 # try to run this command to inter the python command line interface `python`
 # And you should see something like
 
@@ -61,7 +61,7 @@
 # from the line above you have python version 3.11.8 and this is implies that you have python installed on your PC and
 # So you can proceed to code.
 
-# If python is not installed on you PC please vist this site python.org to download and for more information how to
+# If python is not installed on you PC please visit this site python.org to download and for more information how to
 # install python on any system. I will use Kali linux to create and code my project, remember python is for any OS.
 
 # Below is a simple example of how to print, output a message in python.

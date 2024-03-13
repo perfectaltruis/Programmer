@@ -4,8 +4,6 @@ public class Output {
         system.out.println("Am Learning Java");
         System.out.println("It is so cool and Awesome");
 
-
-
 /*
     In Main.java File you learned that You can use a println() Method to
     output / print text in Java, you can also add more println() Methods as you can.
