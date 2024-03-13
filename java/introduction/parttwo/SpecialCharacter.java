@@ -36,15 +36,15 @@ public class SpecialCharacter {
 
         // Table for visual representation of special characters:
         System.out.println("\nSpecial Character Table:");
-        System.out.println("+------------------+----------------------+");
-        System.out.println("| Escape character | Result               |");
-        System.out.println("+------------------+----------------------+");
-        System.out.println("|      \\'          |      '                |");
+        System.out.println("+------------------+-------------------------+");
+        System.out.println("| Escape character | Result                  |");
+        System.out.println("+------------------+-------------------------+");
+        System.out.println("|      \\'          |      '                  |");
         System.out.println("|      \\\"          |      \"                |");
         System.out.println("|      \\\\          |      \\                |");
-        System.out.println("|      \\n          |      Newline           |");
-        System.out.println("|      \\t          |      Tab               |");
-        System.out.println("|      \\r          |      Carriage          |");
-        System.out.println("+------------------+----------------------+");
+        System.out.println("|      \\n          |      Newline            |");
+        System.out.println("|      \\t          |      Tab                |");
+        System.out.println("|      \\r          |      Carriage           |");
+        System.out.println("+------------------+--------------------------+");
     }
 }
