@@ -4,7 +4,7 @@
 /* Operators in java are categorized in the following:
 
   1: - arithmentic 0perators:
-    Arithmetic Operators are used to perform normal Arithmetic operations like
+    Arithmetic Operators are used to perform normal Arithmetic operations like:
     Example +, -, /, *, %, ++, --
 
       - addition +: Used to find the Sum of numbers

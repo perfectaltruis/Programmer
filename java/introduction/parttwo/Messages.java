@@ -49,7 +49,7 @@ public class Messages {
         // The + Operator can be used to concatinate strings. TAKE AN EXAMPLE BELOW
         String first_name = "Joane";
         String last_name = "Doe";
-        System.out.println(first_name + " " + last_name); // result wil be: Joane Doe
+        System.out.println(first_name + " " + last_name); // result wil be: Joane Doe.
         // Note that we have added an empty text ("") to create a space between first_name and last_name on print
 
         // You can also use concat() Method to concatenate two strings. have a look at this
