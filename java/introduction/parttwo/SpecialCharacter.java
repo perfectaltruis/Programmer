@@ -1,7 +1,7 @@
 // SPECIAL CHARACTER IN JAVA
 
 /*
-    Because strings must or can be written within quotes, Java may misunderstand certain characters, leading to errors.
+    Because strings must or can be written within quotes, Java may misunderstand certain characters, leading to errors
     To include special characters within strings, Java provides escape characters, which are preceded by a backslash (\):
 
     Escape character   Result      Description
