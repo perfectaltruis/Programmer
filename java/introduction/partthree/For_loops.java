@@ -34,7 +34,7 @@ Statement 1 sets a variable before the loop starts (int number  = 0).
 Statement 2 defines the condition for the loop to run (number must be less than 20).
 If the condition is true, the loop will start over again, if it is false, the loop will end.
 
-Statement 3 increases a value (i++) each time the code block in the loop has been executed.
+Statement 3 increases a value (number++) each time the code block in the loop has been executed.
 */
 
         // FINDING A EVEN NUMBER
