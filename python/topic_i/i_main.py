@@ -43,7 +43,7 @@
 
 
 # Python relies on indentation, using whitespace, to define scope; such as the scope of
-# loops, functions and classes. Other programming languages often use curly-brackets for this purpose.
+# loops, functions and classes. Other programming languages often use curly-brackets for this purpose but not as python.
 
 
 # To see if python is installed in you Machine please open your terminal and run the command below:
