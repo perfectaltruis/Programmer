@@ -1,7 +1,7 @@
-#### Allways read the README.md File in every folder: 
+#### Always read the README.md File in every folder: 
 
-###### java files are created with .java extension. example: filename.java, Main.java.
-# Introduction: Part two.
+###### java files are created with .java extension. example: Filename.java, Main.java.
+# Java Introduction: Part two.
 ## Introduction:
 This part will advance to more concepts like:
 - Operators
@@ -9,7 +9,6 @@ This part will advance to more concepts like:
 - mathematics in Java
 - Boolean Data type.
 
-###### Follow the structure in this README file to navigate the folder. Do not skip.
 ## File Descriptions:
 
 The folder has the following files:
@@ -19,7 +18,7 @@ The folder has the following files:
 3. [Mathematic.java](Mathematics.java): Mathematical Methods in Java
 4. [Booleans.java](Booleans.java): Boolean Data type
 
-###### Please start with file from 1 to 4 Do not skip.
+###### Follow the structure in this README file to navigate the folder. Do not skip.
 
 ## Usage
 To explore a specific topic or concept, navigate to the corresponding Java file and execute it using a the command line.
