@@ -46,7 +46,7 @@
 # loops, functions and classes. Other programming languages often use curly-brackets for this purpose.
 
 
-# To see if python is installed in you Machine please open your terminal and run the command below
+# To see if python is installed in you Machine please open your terminal and run the command below:
 # python  --version
 
 # if python is installed in your pc you could see something like this `Python 3.11.8`
