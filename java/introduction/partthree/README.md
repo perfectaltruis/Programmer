@@ -20,6 +20,8 @@ This part deal with the following file:
 4. [ControlStatements_II.java](ControlStatements_II.java): Further examples of if-else statements and switch statements.
 5. [For_loops.java](For_loops.java): Demonstrates the usage of for loops for iteration.
 6. [While.java](While.java): Provides examples of while loops for iteration.
+7. [Array_operations.java](Array_operations.java): Introduction to arrays in Java.
+8. [Mult_dimensional_arrays.java](Mult_dimensional_array.java): Advance in Java Arrays
 
 ###### Follow the structure in this README file to navigate the folder. Do not skip.
 
@@ -27,4 +29,3 @@ This part deal with the following file:
 
 Each Java file contains code examples and explanations of the respective control statements and loops.
 You can compile and run these Java files using a Java compiler.
-
