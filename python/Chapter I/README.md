@@ -18,11 +18,10 @@ topic and provides examples and explanations. Start with file number one and pro
 1. [python.py](python.py): Introduction to Python basics.
 2. [comments.py](comments.py): comments, indentations, and more concepts.
 3. [variables.py](variables.py): Introduction ot variables in Python.
-4. [naming.py](naming.py): Variable naming rules, output variables.
-5. [naming_i](naming_i.py): variable assignment and values.
-6. [naming_errors.py](naming_errors.py): Errors resulted to variable naming.
-7. [variable_casting.py](variable_casting.py): How to cast variables and what is it
-8. [global_variable.py](globla_variable.py): Global and Local variables.
+4. [naming_rules.py](naming_rules.py): Variable naming rules, output variables.
+5. [naming_errors.py](naming_errors.py): Errors resulted to variable naming.
+6. [variable_casting.py](variable_casting.py): How to cast variables and what is it
+7. [global_variable.py](globla_variable.py): Global and Local variables.
 
 
 ## Usage
