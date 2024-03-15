@@ -15,7 +15,7 @@ very important in Understanding data types is
  fundamental for writing efficient and bug-free code. Python has various built-in data types
 
 ## File Descriptions
-1. [Data ](Data.py): Overview of data type
+1. [Data ](../Data.py): Overview of data type
 2. [Numbers ](Numbers.py): Numeric Data Type
 3. [Casting Data](Casting.py): How to convert variable from one type to another 
 5. [Type Conversion](TypeConversion.py): Converting variables in python
