@@ -8,33 +8,19 @@ through it freely.
 
 ## Table of contents
 
-1. [topic_i](#topic_i)
-2. [topic_ii](#topic_ii)
-3. [topic_iii](#topic_iii)
-4. [topic_iv](#topic_iv)
-5. [topic_v](#topic_v)
-
-
-## Parts Overview
-1. **Python Overview**:  Introduction to Python, syntax, variables, data types, numbers, strings, etc.
-2. **Python Data Structures**: List, tuples, sets, arrays, dictionaries, etc.
-3. **Control Flow**: If...else Statements, while loops and for loops.
-4. **Functions and Lambda**: Function definition, declarations and lambda functions.
-5. **Object Oriented Programming**: Classess, Objects, enheritance and Porymorphism.
+1. [Chapter I](Chapter%20I)
+2. [Chapter II](Chapter%20II)
+3. [Chapter III](Chapter%20III)
+4. [Chapter IV](Chapter%20IV)
+5. [Chapter V](Chapter%20V)
 
 ## Directory Structure
 
-## topic_i: 
-Contains Python code related to Python basics.
-## topic_ii:
-Contains Python code related to data structures.
-## topic_iii:
-Contains Python code related to control flow and loops.
-## topic_iv:
-Contains Python code related to functions and lambdas. 
-## topic_v: 
-Contains Python code related to object-oriented programming.
-
+1. [Chpter I](Chapter%20V): **Python Overview**:  Introduction to Python, syntax, variables.
+2. [Chapter II](Chapter%20II): **Python Data Structures**: List, tuples, sets, arrays, dictionaries, data types, numbers, strings.
+3. [Chapter III](Chapter%20III)**Control Flow**: If...else Statements, while loops and for loops.
+4. [Chapter IV](Chapter%20V)**Functions and Lambda**: Function definition, declarations and lambda functions.
+5. [Chapter V](Chapter%20V)**Object Oriented Programming**: Classess, Objects, enheritance and Porymorphism.
 
 Each part contains relevant Python code examples and explanations.
 
