@@ -1,5 +1,3 @@
-
-
 # Chapter IIb: String Data Type
 ###### Please read this file carefully it is the starting point to topic one which is an introduction to data type in  python programming.
 
