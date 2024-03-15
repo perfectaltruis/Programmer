@@ -15,9 +15,9 @@ This folder contains Python scripts covering different aspects of Python program
 topic and provides examples and explanations. Start with file number one and proceed in series do not skip
 
 ## File Descriptions
-1. [i_main.py](i_main.py): Introduction to Python basics.
-2. [ii_main.py](ii_main.py): comments, indentations, and more concepts.
-3. [iii_main.py](iii_main.py): Introduction ot variables in Python.
+1. [python.py](python.py): Introduction to Python basics.
+2. [comments.py](comments.py): comments, indentations, and more concepts.
+3. [variables.py](variables.py): Introduction ot variables in Python.
 4. [naming.py](naming.py): Variable naming rules, output variables.
 5. [naming_i](naming_i.py): variable assignment and values.
 6. [naming_errors.py](naming_errors.py): Errors resulted to variable naming.
