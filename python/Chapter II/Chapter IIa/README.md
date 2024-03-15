@@ -1,8 +1,9 @@
 # Chapter IIa: Numeric Data Type
-###### Please read this file carefully it is the starting point to topic one which is an introduction to python programming.
+###### Please read this file carefully it is the starting point to topic one which is an introduction to data type in  python programming.
 
 ##### Note:
 ###### All files are arranged in order please do not skip.
+
 ## Table of Contents
 1. [Introduction](#introduction):
 2. [File Descriptions](#file-descriptions)
@@ -18,8 +19,10 @@ very important in Understanding data types is
 1. [Data ](../Data.py): Overview of data type
 2. [Numbers ](Numbers.py): Numeric Data Type
 3. [Casting Data](Casting.py): How to convert variable from one type to another 
-5. [Type Conversion](TypeConversion.py): Converting variables in python
+4. [Type Conversion](TypeConversion.py): Converting variables in python
 
 ## Usage
 To explore a specific topic or concept, navigate to the corresponding Python script and execute it using a 
 Python interpreter. Each script contains comments and explanations to guide you through the examples and concepts covered.
+
+###### Remember to follow the order of files
