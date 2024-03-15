@@ -1,5 +1,4 @@
-# Chapter II
-### DATA TYPE IN PYTHON. part I
+# Chapter IIa: Numeric Data Type
 ###### Please read this file carefully it is the starting point to topic one which is an introduction to python programming.
 
 ##### Note:
