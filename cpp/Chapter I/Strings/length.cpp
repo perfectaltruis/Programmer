@@ -2,7 +2,7 @@
 
 // In C++, you can get the length of a string using the 
 // length() member function or the size() member function 
-// of the std::string class. Here's how to do it:
+// of the std::string class. Example Here's how to do it:
 
 #include <iostream>
 #include <string>
