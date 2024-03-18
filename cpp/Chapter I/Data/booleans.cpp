@@ -4,8 +4,7 @@
 The booleans data type is declared by a 'bool' keyword.
 The Boolean data type represents logical values, which can be either true or false
 Booleans are mainly used in control statements and conditional statements and logical
-expressions to control program flow
-
+expressions to control program flow.
 */
 
 #include <iostream>
