@@ -6,8 +6,8 @@ aspects of C++ programming, including:
 
     Introduction to C++: It briefly describes C++ as a 
     cross-platform language used to create high-performance
-     applications, popularly employed in computer programming
-      and game development.
+    applications, popularly employed in computer programming
+    and game development.
 
     Usage of cout and cin: It demonstrates the usage of cout
      for output and cin for input. It showcases printing text
