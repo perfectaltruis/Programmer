@@ -1,3 +1,5 @@
+// DATA TYPE IN C++
+
 /*
 
 In C++, data types specify the type of data 
