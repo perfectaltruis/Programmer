@@ -60,7 +60,7 @@ int main() {
     // with the message string using the + operator, resulting in the combined string 
     // "The number is: 10". Finally, we output the concatenated string using cout.
 
-    
+
     return 0;
 }
 
