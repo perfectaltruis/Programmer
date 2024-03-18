@@ -1,5 +1,5 @@
 # Chapter I
-### INDROCUTION TO PYTHON. 
+### INTRODUCTION TO PYTHON. 
 ###### Please read this file carefully it is the starting point to topic one which is an introduction to python programming.
 
 ##### Note:
