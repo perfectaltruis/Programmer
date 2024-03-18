@@ -31,7 +31,6 @@ int main() {
     return 0;
 }
 
-
 /*
     We have three variables: number, lower_limit, and upper_limit.
     We want to check if number falls within the range defined by lower_limit and upper_limit.
@@ -41,5 +40,5 @@ int main() {
     The result is stored in the boolean variable is_within_range.
     Finally, we output the result using cout.
 
-This example demonstrates the usage of logical operators (&& in this case) to combine conditions in C++. 
+    This example demonstrates the usage of logical operators (&& in this case) to combine conditions in C++.
 */
