@@ -26,7 +26,6 @@ int main() {
     return 0; // Return 0 to indicate successful termination of the program
 }
 
-
 //     string fullName;: Declares a string variable named fullName to store the user's input.
 //     cout << "Type your full name: ";: Displays the message "Type your full name: " on the console.
 //     getline(cin, fullName);: Reads a line of text from the standard input (cin) and stores it in the variable fullName. 
