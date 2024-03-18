@@ -7,7 +7,7 @@ organized into different categories to help you grasp fundamental concepts in C+
 
 
 #### Note:
-###### All files are arranged in order. Do not skip
+###### All files are arranged in order. Do not skip.
 ## Table of contents:
 1. [Introduction](#introduction)
 2. [Directory Structure](#directory-structure)
