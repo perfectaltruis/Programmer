@@ -57,6 +57,6 @@ int main() {
     Boolean variables are used to store the results of each comparison.
     The results of the comparisons are then output using cout statements.
 
-This example demonstrates the usage of comparison operators in C++ with 
-descriptive names and snake_case convention. Let me know if you need further clarification!
+    This example demonstrates the usage of comparison operators in C++ with
+    descriptive names and snake_case convention. Let me know if you need further clarification!
 */
