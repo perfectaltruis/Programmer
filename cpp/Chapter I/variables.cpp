@@ -28,8 +28,9 @@
     This involves assigning an initial value to the variable.
     example: 
 
-        int score = 100; // Declares and initializes a variable named 'score' with the value 100
-
+        // Declares and initializes a variable named 'score' with the value 100
+        int score = 100; 
+        
     3. Variable Assignment:
         After declaration, variables can be assigned new values using the assignment operator (=).
         age = 25; // Assigns the value 25 to the variable 'age'
