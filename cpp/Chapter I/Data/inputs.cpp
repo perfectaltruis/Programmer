@@ -1,6 +1,5 @@
 // USER INPUTS IN C++:
 
-
 /*
 In C++, you can read input from the user using
 the cin object, which is part of the iostream library. 
