@@ -1,4 +1,5 @@
 // CONSTANT  KEYWORD IN C++
+
 /*
 In C++, constants are used to define values that cannot 
 be modified or changed during the execution of a program.
@@ -29,6 +30,7 @@ Constants defined using const have the advantage of
  where they are defined. On the other hand, #define constants are 
  simple text substitutions and do not have a specific data type 
  associated with them.
+
 
 Here's an example demonstrating both methods:
 */
