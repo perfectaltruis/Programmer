@@ -1,4 +1,4 @@
-// INTRODUCTION TO C++.
+// INTRODUCTION TO C++ PROGRAMMING.
 // C++ was developed by Bjarne Stroustrup, as an extension to the C language.
 // The language was updated 4 major times in 2011, 2014, 2017, and 2020 to C++11, C++14, C++17, C++20.
 // c++ is an object-oriented programming language which means that 
@@ -18,7 +18,7 @@ ii: A compiler like GCC That translate your C++ code into a language that the co
 
 */
 /*
-// FREE IDE (Integrated Developement Environment):
+// FREE IDE (Integrated Development Environment):
 // I will use visual studio code.
 
     Development Environments (IDEs) for various programming languages:
