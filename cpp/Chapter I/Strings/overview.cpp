@@ -1,4 +1,5 @@
 // STRING DATA TYPE IN C++
+
 /*
 The string data type in C++ provides a convenient way to work with sequences of characters, making it easier to handle
 text and manipulate strings within C++ programs. Here are some reasons why the string data type is important in C++:
