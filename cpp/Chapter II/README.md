@@ -1,5 +1,5 @@
 # Control Statements
-##### Control statements are used for logic
+##### Control statements are used for logic operations in C++
 
 
 In this repository:
