@@ -26,3 +26,7 @@ specific concept or features of the c++ language.
 4. [Data](Data): Directory for more specific data-related programs.
 5. [Strings](Strings): Directory for string-related programs.
 6. [Main.cpp](Main.cpp): Overview of C++
+
+
+## Usage:
+Simply Navigate through different this repository to continue your adventure.
