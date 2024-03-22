@@ -25,3 +25,10 @@ The folder has the following files:
 ## Usage
 To explore a specific topic or concept, navigate to the corresponding Java file and execute it using a the command line.
 Each java file contains comments and explanations to guide you through the examples and concepts covered.
+
+
+To run the Java files directly with Java, execute the following command in your terminal:
+```bash
+java Filename.java
+```
+Replace `Filename.java` with the name of the Java file you want to execute.
