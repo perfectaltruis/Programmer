@@ -5,29 +5,35 @@ This repository contains code files and resources for learning Java programming 
 ###### Naviagate this repostory in series. Do not Skip.
 ## Sections
 
-1. **[Introduction](introduction)**
-   - **[partone](introduction/partone)**: Introduction to Java programming language.
-   - **[parttwo](introduction/parttwo/)**: More basics including variables, operators, and mathematical operations.
-   - **[partthree](introduction/partthree)**: Advanced topics such as control statements, loops, and arrays.
+1. **[Chapter I: Introduction](Chapter%20I)**
+   - **[part one](Chapter%20I/partone)**: Introduction to Java programming language.
+   - **[part two](Chapter%20I/parttwo/)**: More basics including variables, operators, and mathematical operations.
+   - **[part three](Chapter%20I/partthree)**: Advanced topics such as control statements, loops, and arrays.
 
 2. **[Classes](classes)**
-   - **[partone](classes/partone)**: (Description of content)
-   - **[parttwo](classes/two)**: (Description of content)
-   - **[partthree](classes/three)**: (Description of content)
-   - **[partfour](classes/partfour)**: (Description of content)
+   - **[par tone](classes/partone)**: (Description of content)
+   - **[part two](classes/two)**: (Description of content)
+   - **[part three](classes/three)**: (Description of content)
+   - **[part four](classes/partfour)**: (Description of content)
 
 3. **[File Handling](filehanding)**
-   - **[partone](filehandling/partone)**: (Description of content)
-   - **[parttwo](filehandling/parttwo)**: (Description of content)
-   - **[partthree](filehandling/partthree)**: (Description of content)
+   - **[part one](filehandling/partone)**: (Description of content)
+   - **[part two](filehandling/parttwo)**: (Description of content)
+   - **[part three](filehandling/partthree)**: (Description of content)
 
-4. **Methods**
+4. **[Chapter II: Methods in Java](Chapter%20II)**
    - (Description of content)
 
 ## Usage
 
 Feel free to explore the directories and files according to your learning needs. Each section contains code examples and explanations to help you understand different concepts in Java programming.
 
+
+To run the Java files directly with Java, execute the following command in your terminal:
+```bash
+java Filename.java
+```
+Replace `Filename.java` with the name of the Java file you want to execute.
 ## Contributing
 
 If you find any issues or want to contribute to this repository, please feel free to submit a pull request or open an issue.

@@ -21,6 +21,7 @@ This part deal with the following file:
 5. [For_loops.java](For_loops.java): Demonstrates the usage of for loops for iteration.
 6. [While.java](While.java): Provides examples of while loops for iteration.
 8. [Mult_dimensional_arrays.java](Mult_dimensional_array.java): Advance in Java Arrays
+9. [Array_strings.java](Array_strings.java): How to output strings in arrays.
 
 ###### Follow the structure in this README file to navigate the folder. Do not skip.
 
