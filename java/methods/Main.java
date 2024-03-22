@@ -36,5 +36,4 @@ In the main method, you call first_method using its name followed by parentheses
 
 This demonstrates how to define and call a method in Java,
 following this approach where the method is defined before calling it.
-
 */
