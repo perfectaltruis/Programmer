@@ -10,19 +10,26 @@ This repository contains code files and resources for learning Java programming 
    - **[part two](Chapter%20I/parttwo/)**: More basics including variables, operators, and mathematical operations.
    - **[part three](Chapter%20I/partthree)**: Advanced topics such as control statements, loops, and arrays.
 
-2. **[Classes](classes)**
+2. **[Chapter II: Methods in Java](Chapter%20II)**
+
+   - Introduction to methods in Java.
+   - Explanation of method declaration and invocation.
+   - Different types of methods: static methods, instance methods, constructors.
+   - Method overloading and overriding.
+   - Examples demonstrating the usage of methods in Java programs.
+
+3. **[Classes](classes)**
    - **[par tone](classes/partone)**: (Description of content)
    - **[part two](classes/two)**: (Description of content)
    - **[part three](classes/three)**: (Description of content)
    - **[part four](classes/partfour)**: (Description of content)
 
-3. **[File Handling](filehanding)**
+4. **[File Handling](filehanding)**
    - **[part one](filehandling/partone)**: (Description of content)
    - **[part two](filehandling/parttwo)**: (Description of content)
    - **[part three](filehandling/partthree)**: (Description of content)
 
-4. **[Chapter II: Methods in Java](Chapter%20II)**
-   - (Description of content)
+
 
 ## Usage
 
