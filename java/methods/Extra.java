@@ -6,7 +6,7 @@ public class Main {
         printWelcomeMessage();
     }
 
-    // Method to print a welcome message
+    // Method that print a welcome message
     public static void printWelcomeMessage() {
         System.out.println("Welcome to my Java program!");
     }
