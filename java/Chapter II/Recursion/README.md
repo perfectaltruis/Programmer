@@ -9,6 +9,8 @@ This directory contains Java programs demonstrating recursion. Recursion is a pr
 1. [Factorial.java](Factorial.java): Calculates the factorial of a given number using recursion. 
 2. [Fibonacci.java](Fibonacci.java): Generates Fibonacci sequence up to a specified limit using recursion. 
 3. [SumOfDigits.java](SumOfDigits.java): Calculates the sum of digits of a number using recursion.
+4. [GCDCalculator.java](GCDCalculator.java): GCD calculator using recursion in Java.
+5. [Tribonacci.java](Tribonacci.java): Tribonacci Sequence in Java.
 
 ## Usage
 To run the Java files directly with Java, execute the following command in your terminal:
