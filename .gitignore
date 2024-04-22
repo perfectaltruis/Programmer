@@ -1,0 +1,39 @@
+# Ignore compiled Java class files
+*.class
+.classpath
+.project
+# Ignore JAR files (Java Archives)
+*.jar
+
+# Ignore Python bytecode files
+*.pyc
+__pycache__
+
+# Ignore compiled C++ object files
+*.o
+*.out
+*.exe
+
+# Ignore compiled C++ libraries
+*.a
+*.lib
+
+# Ignore generated build directories
+/bin/
+/build/
+/out/
+
+# Ignore IDE-specific files and directories
+.idea/
+*.iml
+.vscode/
+*.suo
+*.sln
+*.user
+*.suo
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+# Ignore virtual environments
+.venv/
