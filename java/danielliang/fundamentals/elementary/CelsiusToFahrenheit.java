@@ -13,6 +13,7 @@ public class CelsiusToFahrenheit {
 
             // Scanner object closed
             input.close();
+            
             // conversion process
             double temperature_in_fahrenheit = (9.0/5) * temperature + 32;
 
