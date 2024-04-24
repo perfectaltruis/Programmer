@@ -37,7 +37,7 @@ The programs in this repository cover topics such as:
 22. [2. 22. VolumeOfACylinder.java](VolumeOfACylinder.java): Computes the volume of a cylinder.
 23. [2. 23. WindChillIndex.java](WindChillIndex.java): Calculates the wind chill index.
 
-## ALL PROGRAMMING QUESTIONS ARE HERE: [Programming Exercises](Resources/README.md)
+## ALL PROGRAMMING QUESTIONS ARE [HERE](Resources/README.md)
 
 ## Usage
 

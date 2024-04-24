@@ -29,7 +29,7 @@ They are designed to be simple and easy to understand, making them ideal for beg
 12. [1.12 AverageSpeedInMiles.java](AverageSpeedInMiles.java): Calculates average speed in miles per hour.
 13. [1.13 SimultaneousUsingCramerRule.java](SimultaneousUsingCramerRule.java): Solves a system of linear equations using Cramer's rule.
 
-## ALL PROGRAMMING QUESTIONS ARE HERE: [Programming Exercises](Resources/README.md)
+## ALL PROGRAMMING QUESTIONS ARE [HERE](Resources/README.md)
 
 ## Usage
 
