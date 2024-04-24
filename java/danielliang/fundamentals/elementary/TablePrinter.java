@@ -10,5 +10,6 @@ public class TablePrinter {
         System.out.println("\t3\t4\t81");
         System.out.println("\t4\t5\t1024");
         System.out.println("\t5\t6\t15625");
+        
     }
 }
