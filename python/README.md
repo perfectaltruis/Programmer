@@ -1,4 +1,5 @@
 ###### python projects and source codes. Python files are created with .py extension
+
 ###### example create a file with a name `filename.py` this will be a python file because of .py extension
 
 # Learn Python: Simple way to learn python.
@@ -16,11 +17,11 @@ through it freely.
 
 ## Directory Structure
 
-1. [Chpter I](Chapter%20V): **Python Overview**:  Introduction to Python, syntax, variables.
-2. [Chapter II](Chapter%20II): **Python Data Structures**: List, tuples, sets, arrays, dictionaries, data types, numbers, strings.
-3. [Chapter III](Chapter%20III)**Control Flow**: If...else Statements, while loops and for loops.
-4. [Chapter IV](Chapter%20V)**Functions and Lambda**: Function definition, declarations and lambda functions.
-5. [Chapter V](Chapter%20V)**Object Oriented Programming**: Classess, Objects, enheritance and Porymorphism.
+1. [chapter_01](chapter_01): **Python Overview**:  Introduction to Python, syntax, variables.
+2. [chapter_02](chapter_02): **Python Data Structures**: List, tuples, sets, arrays, dictionaries, data types, numbers, strings.
+3. [chapter_03](chapter_03)**Control Flow**: If...else Statements, while loops and for loops.
+4. [chapter_04](chapter_04)**Functions and Lambda**: Function definition, declarations and lambda functions.
+5. [chapter_05](chapter_05)**Object Oriented Programming**: Classess, Objects, enheritance and Porymorphism.
 
 Each part contains relevant Python code examples and explanations.
 
