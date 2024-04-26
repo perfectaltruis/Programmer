@@ -1,4 +1,4 @@
-package Labs.II;
+package practicals.labs.lab_02;
 
 public class HelloWorld {
 
