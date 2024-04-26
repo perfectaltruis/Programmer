@@ -16,7 +16,7 @@ In this repository, there are python scripts that deal with strings. read them i
 1. [Overview.py](Overview.py):  Provide an Overview of working with strings in python
 
 2. [Slicing.py](Strings/Slicing.py): Demonstrate slicing techniques of strings in python
-3. [FormatingStrings.py](Strings/FormatingStrings.py): Illustrates different string formatting methods in Python
+3. [FormattingStrings.py](Strings/FormattingStrings.py): Illustrates different string formatting methods in Python
 4. [Modify.ppy](Strings/Modify.py): Explain how to modify a string in python
 5. [Concatenate.py](Strings/Concatenate.py): How to perform string concatenation in python
 6. [Escape.py](Strings/Escape.py): Escape character in python
