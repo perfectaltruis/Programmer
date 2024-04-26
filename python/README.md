@@ -1,4 +1,5 @@
 ###### python projects and source codes. Python files are created with .py extension
+
 ###### example create a file with a name `filename.py` this will be a python file because of .py extension
 
 # Learn Python: Simple way to learn python.
