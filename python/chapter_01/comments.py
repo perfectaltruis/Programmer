@@ -1,5 +1,5 @@
 # HOW TO RUN PYTHON CODES IN TERMINAL, AND EDITOR. WHAT IS INDENTATION IN PYTHON?
-# WHAT IS COMMENT? HOW TO WRITE COMMENTS IN PYTHON.
+# WHAT IS COMMENT? HOW TO WRITE COMMENTS.
 
 
 # Python as I said before it can be executed from the command line or py createing a file with .py extension and
