@@ -1,4 +1,4 @@
-package Labs.I;
+package labs.lab_01;
 
 public class CircleAreaAndCircumference {
     public static void main(String[] args) {
