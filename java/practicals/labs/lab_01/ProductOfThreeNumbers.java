@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class ProductOfThreeNumbers {
     public static void main(String[] args) {
-        // Create a Scanner object
+        // create a Scanner object
         Scanner scanner = new Scanner(System.in);
 
         // Prompt the user to input three numbers
