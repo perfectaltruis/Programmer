@@ -8,7 +8,7 @@ This repository contains a collection of Java programs that demonstrate various 
 2. [CombinedRandomCharacterGenerator.java](CombinedRandomCharacterGenerator.java): Program to generate Random characters and combine them.
 3. [Counter.java](Counter.java): A program to count numbers.
 4. [DayOfWeekCalculator.java](DayOfWeekCalculator.java): A program to calculate the day of the week for a given date.
-5. [FibonacciFinder.java](FibonacciFinder.java):
+5. [FibonacciFinder.java](FibonacciFinder.java): programm to find a fibonacci
 6. [FibonacciNumberCalculator.java](FibonacciNumberCalculator.java): A program to calculate the nth Fibonacci number.
 7. [FibonacciSequenceGenerator.java](FibonacciSequenceGenerator.java): A program to generate a Fibonacci sequence.
 8. [FutureTuition.java](FutureTuition.java): A program to calculate future tuition fees.
