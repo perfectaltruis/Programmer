@@ -7,7 +7,8 @@ public class LinearEquationUserInput {
     public static void main(String[] args) {
         System.out.println("solve linear equaton of 2 * 2");
         
-        try (// scanner to store user input.
+        try (
+        // scanner to store user input.
         Scanner input = new Scanner(System.in)) {
             System.out.print("Enter value of a, b, c, d, e, f: ");
             double a = input.nextDouble();
