@@ -2,8 +2,10 @@ package chapter_01.part_01;
 
 // NUMERALS IN JAVA
 /*
-In Java, you can work with various types of numerals, including integers and floating-point numbers.
-You can use println() method to print numbers, but you do not enclose them in double quotes.
+In Java, you can work with various types of numerals,
+including integers and floating-point numbers. You can use
+println() method to print numbers, but you do not enclose them
+in double quotes.
 
 Let's explore some examples below:
 */
