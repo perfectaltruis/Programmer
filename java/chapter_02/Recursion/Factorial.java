@@ -1,4 +1,4 @@
-//  RECURSION IN JAVA
+//  RECURSION CONCEPT IN JAVA
 
 /*
 Recursion in Java refers to the process where a method calls itself to solve a problem. In recursive programming, a
