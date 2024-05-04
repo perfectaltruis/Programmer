@@ -8,9 +8,9 @@ This project aims to help you learn Java, Python, and C++ concurrently. Each lan
 
 ## Directories
 
-- `java/`: Contains Java source code files.
-- `python/`: Contains Python scripts and modules.
-- `cpp/`: Contains C++ source code files.
+- [java](java)`: Contains Java source code files.
+- [python](python): Contains Python scripts and modules.
+- [cpp](cpp): Contains C++ source code files.
 
 ## Getting Started
 
