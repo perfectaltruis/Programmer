@@ -3,7 +3,8 @@
 In programming, booleans are a data type that can have only one of two values: true or false.
 Java provides a boolean data type to represent these values.
 
-A boolean data type is declared using the boolean keyword, similar to how integers are declared using int, or floating-point numbers using float.
+A boolean data type is declared using the boolean keyword, 
+similar to how integers are declared using int, or floating-point numbers using float.
 */
 
 public class Booleans {
