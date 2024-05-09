@@ -1,4 +1,4 @@
-# Chapter II
+# Chapter 02: Methods in Java
 
 ###### Please READ all README files They provide more information about how to use the Project's repository.
 
