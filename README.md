@@ -1,16 +1,15 @@
 # Programmer
 
-This is a project for learning Java, Python, and C++ simultaneously.
+This is a project for learning Java and Python simultaneously.
 
 ## Overview
 
-This project aims to help you learn Java, Python, and C++ concurrently. Each language has its own directory where you can practice and explore the fundamentals and advanced concepts.
+This project aims to help you learn Java and Python simultaneously, and Each language has its own directory where you can practice and explore the fundamentals and advanced concepts.
 
 ## Directories
 
-- [java](java)`: Contains Java source code files.
+- [java](java): Contains Java source code files.
 - [python](python): Contains Python scripts and modules.
-- [cpp](cpp): Contains C++ source code files.
 
 ## Getting Started
 
@@ -20,8 +19,8 @@ This project aims to help you learn Java, Python, and C++ concurrently. Each lan
 
 ## Contributing
 
-Contributions are welcome! If you have any suggestions, improvements, or fixes, feel free to open an issue or submit a pull request.
+Contributions are welcome! If you have any suggestions, improvements, or fixes, feel free to open an issue or submit a pull request. Remember to read [CONTRIBUTING.md](CONTRIBUTING.md) FILE and [CODE OF CONDUCT](CODE_OF_CONDUCT.md)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.****
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
