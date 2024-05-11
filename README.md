@@ -2,10 +2,6 @@
 
 This is a project for learning Java and Python simultaneously.
 
-This is a brief overview of what the project is about.
-
-For a full list of authors, please see the [AUTHORS](AUTHORS) file.
-
 ## Overview
 
 This project aims to help you learn Java and Python simultaneously, and Each language has its own directory where you can practice and explore the fundamentals and advanced concepts.
