@@ -60,7 +60,7 @@ If you encounter any bugs, issues, or have suggestions for improvements, please 
 
 ## License
 
-By contributing to Java-Questions, you agree that your contributions will be licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+By contributing to `programmer`, you agree that your contributions will be licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
