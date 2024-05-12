@@ -21,6 +21,10 @@ This project aims to help you learn Java and Python simultaneously, and Each lan
 
 Contributions are welcome! If you have any suggestions, improvements, or fixes, feel free to open an issue or submit a pull request. Remember to read [CONTRIBUTING.md](CONTRIBUTING.md) FILE and [CODE OF CONDUCT](CODE_OF_CONDUCT.md)
 
+## Security
+
+If you discover a security vulnerability in this project, please follow our [Security Policy](.github/SECURITY.md) to report it responsibly
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
